@@ -1,8 +1,8 @@
 ## Estudos de algoritmos
 
-Este repositório contém alguns algoritmos em javascript que eu escrevi durante estudos sobre algoritmos e javascript.
+Este repositório contém alguns algoritmos em javascript que eu escrevi durante meus estudos.
 
-Alguns destes algoritmos são aplicações em javascript de algoritmos em pseudocódigo vistos durante a matéria de Algoritmos e Programação do curso de ADS.
+Alguns deles são aplicações em javascript de algoritmos em pseudocódigo vistos durante a matéria de Algoritmos e Programação do curso de ADS.
 
 Orientação para mim mesmo:
 
